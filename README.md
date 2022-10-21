@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Ortiz
+====================================================================================================================================
 
-<!--
-**Danof123/Danof123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Un estudiante con ganas de aprender
+-----------------------------------
 
-Here are some ideas to get you started:
+Me encuentro estudiando ingeniería en computación en la Universidad autónoma del estado de Mexico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Mexico
+* ✉️  You can contact me at [do189492@gmail.com](mailto:do189492@gmail.com)
+* 🧠  I'm learning Java
+* 🤝  I'm open to collaborating on Un proyecto en inteligencia artificial
+* ⚡  me gusta dormir pero no puedo xd
